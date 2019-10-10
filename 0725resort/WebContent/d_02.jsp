@@ -15,7 +15,9 @@
 html {
 	font-size: 16px;
 }
-
+body {
+		  background-color: #ebebeb;
+	}
 .container {
 	margin: 50px;
 }

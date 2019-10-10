@@ -17,10 +17,15 @@
 	
 
 %>
+<style>
+body {
+		  background-color: #ebebeb;
+	}
+</style>
 </head>
 <body>
 <div style="height:103px; background-color:#200000;"></div>
-<div style="padding:150px 300px 300px 150px;">
+<div class="container" style="padding:150px 50px 50px 50px; min-height:720px;">
 <table class="table table-striped">
 	<thead class="thead-dark">
 	<tr>
